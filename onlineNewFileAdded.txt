@@ -1,5 +1,9 @@
 This file is created online and also available in local but this content is modified 
 yes after fetch and pull!
+
 I am a local file and i dint want any conflicts
+
+This is online modifications to see conflicts
+
 
 ok thanks
